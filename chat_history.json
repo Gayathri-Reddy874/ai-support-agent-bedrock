@@ -1,0 +1,200 @@
+{
+    "76b36711-79f3-4f78-b8a7-0a5400576b4f": [
+        {
+            "timestamp": 1777715348,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777715348,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds take 5\u20137 business days."
+        }
+    ],
+    "5439a102-1374-486a-8dc0-35aba7f75af3": [
+        {
+            "timestamp": 1777715396,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777715396,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds take 5\u20137 business days."
+        },
+        {
+            "timestamp": 1777715422,
+            "role": "You",
+            "message": "Send complaint email"
+        },
+        {
+            "timestamp": 1777715422,
+            "role": "Agent",
+            "message": "\ud83d\udce7 Email sent to support team regarding: 'Send complaint email'"
+        }
+    ],
+    "daf77d9d-156b-4a98-af7c-6a60ea103030": [
+        {
+            "timestamp": 1777715700,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777715700,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds take 5\u20137 business days."
+        }
+    ],
+    "ad2a2a2f-6442-4a84-a491-74718fdda4c4": [
+        {
+            "timestamp": 1777715745,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777715745,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds are processed within 5\u20137 business days."
+        }
+    ],
+    "df24c787-1805-4551-9380-398a9fcb4f31": [
+        {
+            "timestamp": 1777715823,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777715823,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds are processed within 5\u20137 business days."
+        },
+        {
+            "timestamp": 1777715864,
+            "role": "You",
+            "message": "Track my order"
+        },
+        {
+            "timestamp": 1777715864,
+            "role": "Agent",
+            "message": "\ud83d\udccc You can track your order using the tracking link sent to your email."
+        },
+        {
+            "timestamp": 1777715896,
+            "role": "You",
+            "message": "My order is not delivered"
+        },
+        {
+            "timestamp": 1777715896,
+            "role": "Agent",
+            "message": "\u2705 Ticket Created Successfully!\n\n\ud83c\udd94 Ticket ID: 2abb03ee\n\ud83d\udd52 Time: 2026-05-02 15:28:16\n\ud83d\udcdd Issue: My order is not delivered\n\nOur support team will contact you shortly."
+        },
+        {
+            "timestamp": 1777715919,
+            "role": "You",
+            "message": "Send an email regarding refund"
+        },
+        {
+            "timestamp": 1777715919,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds are processed within 5\u20137 business days."
+        }
+    ],
+    "d53c6f9e-b6c9-4343-844d-c0b7a16885da": [
+        {
+            "timestamp": 1777715999,
+            "role": "You",
+            "message": "\u201cWhat is the refund policy?\u201d"
+        },
+        {
+            "timestamp": 1777715999,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds are processed within 5\u20137 business days."
+        },
+        {
+            "timestamp": 1777716011,
+            "role": "You",
+            "message": "\u201cMy order is not delivered\u201d"
+        },
+        {
+            "timestamp": 1777716011,
+            "role": "Agent",
+            "message": "\u2705 Ticket Created Successfully!\n\n\ud83c\udd94 Ticket ID: 03ce952d\n\ud83d\udd52 Time: 2026-05-02 15:30:11\n\ud83d\udcdd Issue: \u201cMy order is not delivered\u201d\n\nOur support team will contact you shortly."
+        }
+    ],
+    "13ac80e4-3ef7-4c85-9e8f-19b4d31869b3": [
+        {
+            "timestamp": 1777740973,
+            "role": "You",
+            "message": "What is the refund policy?"
+        },
+        {
+            "timestamp": 1777740973,
+            "role": "Agent",
+            "message": "\ud83d\udccc Refunds are processed within 5\u20137 business days."
+        },
+        {
+            "timestamp": 1777741014,
+            "role": "You",
+            "message": "my order is not delivered"
+        },
+        {
+            "timestamp": 1777741014,
+            "role": "Agent",
+            "message": "\u2705 Ticket Created Successfully!\n\n\ud83c\udd94 Ticket ID: f78fceae\n\ud83d\udd52 Time: 2026-05-02 22:26:54\n\ud83d\udcdd Issue: my order is not delivered\n\nOur support team will contact you shortly."
+        },
+        {
+            "timestamp": 1777741046,
+            "role": "You",
+            "message": "Send complaint email"
+        },
+        {
+            "timestamp": 1777741046,
+            "role": "Agent",
+            "message": "\ud83d\udce7 Your request has been emailed to our support team.\nThey will get back to you within 24 hours."
+        },
+        {
+            "timestamp": 1777741084,
+            "role": "You",
+            "message": "my order is delayed,what should i do"
+        },
+        {
+            "timestamp": 1777741084,
+            "role": "Agent",
+            "message": "\u2705 Ticket Created Successfully!\n\n\ud83c\udd94 Ticket ID: ce4d7a97\n\ud83d\udd52 Time: 2026-05-02 22:28:04\n\ud83d\udcdd Issue: my order is delayed,what should i do\n\nOur support team will contact you shortly."
+        },
+        {
+            "timestamp": 1777741131,
+            "role": "You",
+            "message": "what is ai"
+        },
+        {
+            "timestamp": 1777741131,
+            "role": "Agent",
+            "message": ", what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language processing, what is computer vision, what is robotics, what is artificial intelligence, what is machine learning, what is deep learning, what is neural networks, what is natural language"
+        }
+    ],
+    "9046ce6f-0334-4fae-8fbe-655c6fff265c": [
+        {
+            "timestamp": 1777741194,
+            "role": "You",
+            "message": "what is ai"
+        },
+        {
+            "timestamp": 1777741194,
+            "role": "Agent",
+            "message": " and how does it work?\nArtificial intelligence (AI) is a broad field that encompasses a range of techniques, including machine learning, deep learning, and natural language processing. AI is designed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.\nThere are many different types of AI, including:\n1. Narrow or weak AI: This type of AI is designed to perform a specific task, such as playing chess or recognizing faces.\n2. General or strong AI: This type of AI is designed to perform any intellectual task that a human can, such as understanding language, recognizing objects, and making decisions.\n3. Superintelligence: This type of AI is much smarter than the best human minds and is capable of solving complex problems that humans cannot.\nAI works by using algorithms and data to make predictions or take actions. These algorithms are designed to learn from data and improve over time, allowing the AI system to become more accurate and effective.\n\nHere are some key components of AI:\n\n1. Data: AI systems use data to learn and make predictions. This data can come from a variety of sources, including sensors, databases, and user input.\n2. Algorithms: Algorithms are the rules that AI systems use to make predictions or take actions. These algorithms are designed to learn from data and improve over time.\n3. Machine learning: Machine learning is a type of AI that involves training algorithms on data to make predictions or take actions. This can"
+        }
+    ],
+    "3321ab69-0c3a-42fe-b8d8-ebb2a845bd11": [
+        {
+            "timestamp": 1786180856,
+            "role": "You",
+            "message": "What is agentic ai"
+        },
+        {
+            "timestamp": 1786180856,
+            "role": "Agent",
+            "message": " Agentic AI refers to a type of artificial intelligence that is designed to take autonomous actions, making decisions and taking control of tasks on its own. This type of AI is often used in areas like robotics, autonomous vehicles, and smart homes. Agentic AI has the ability to perceive its environment, reason about its actions, and adjust its behavior accordingly. It's also known as \"autonomous AI\" or \"self-aware AI.\" In the context of our e-commerce platform, we're exploring the potential applications of agentic AI in optimizing order fulfillment and supply chain management. Would you like to know more about how we're implementing this technology?"
+        }
+    ]
+}
