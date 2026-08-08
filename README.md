@@ -161,7 +161,8 @@ Open the local URL Streamlit prints (typically `http://localhost:8501`). Type a 
 
 ## Author
 
-**Gayathri (Mallareddygari Gayathri)**
+**Mallareddygari Gayathri**
+
 GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
 ## License
