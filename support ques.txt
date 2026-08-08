@@ -1,0 +1,24 @@
+My order is not delivered
+I received a damaged product
+My payment failed but money was deducted
+I want to raise a complaint
+There is an issue with my order
+
+
+What is the refund policy?
+How long does delivery take?
+How can I track my order?
+track order
+delivery time
+refund time
+
+
+Send complaint email
+Email support about my issue
+Send an email regarding refund
+
+
+
+My order is delayed, what should I do?
+I want refund for damaged product
+Can you help me with delivery issue?
