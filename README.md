@@ -73,7 +73,7 @@ User Input
 
 ## Features
 
-- 🎯 **Intent-first routing** — complaint and email-style messages are routed correctly before FAQ or LLM logic runs
+- 🎯 **Intent-first routing** - complaint and email-style messages are routed correctly before FAQ or LLM logic runs
 - 📌 **Instant FAQ answers** for common queries (refunds, delivery, order tracking)
 - 🧠 **Context-aware LLM fallback** — recent conversation turns are included in the Bedrock prompt so responses stay relevant and non-repetitive
 - 🎫 **Automatic ticket generation** with unique IDs and timestamps
