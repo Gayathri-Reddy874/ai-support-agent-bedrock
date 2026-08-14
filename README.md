@@ -78,7 +78,7 @@ User Input
 - 🧠 **Context-aware LLM fallback** - recent conversation turns are included in the Bedrock prompt so responses stay relevant and non-repetitive
 - 🎫 **Automatic ticket generation** with unique IDs and timestamps
 - 💬 **Streamlit chat UI** with sidebar session history
-- 🗂️ **Lightweight, thread-safe JSON session memory** — no database dependency
+- 🗂️ **Lightweight, thread-safe JSON session memory** - no database dependency
 
 ## Tech Stack
 
