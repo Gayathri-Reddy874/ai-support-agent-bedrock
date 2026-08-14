@@ -75,7 +75,7 @@ User Input
 
 - 🎯 **Intent-first routing** - complaint and email-style messages are routed correctly before FAQ or LLM logic runs
 - 📌 **Instant FAQ answers** for common queries (refunds, delivery, order tracking)
-- 🧠 **Context-aware LLM fallback** — recent conversation turns are included in the Bedrock prompt so responses stay relevant and non-repetitive
+- 🧠 **Context-aware LLM fallback** - recent conversation turns are included in the Bedrock prompt so responses stay relevant and non-repetitive
 - 🎫 **Automatic ticket generation** with unique IDs and timestamps
 - 💬 **Streamlit chat UI** with sidebar session history
 - 🗂️ **Lightweight, thread-safe JSON session memory** — no database dependency
