@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
 [![AWS Bedrock](https://img.shields.io/badge/LLM-AWS%20Bedrock-orange)](https://aws.amazon.com/bedrock/)
 
-An AI-powered customer support agent that routes user queries through a tiered pipeline — **FAQ matching → intent detection → LLM fallback (AWS Bedrock)** — with persistent session memory, built on Streamlit.
+An AI-powered customer support agent that routes user queries through a tiered pipeline - **FAQ matching → intent detection → LLM fallback (AWS Bedrock)** — with persistent session memory, built on Streamlit.
 
 Rather than sending every message to an LLM, the agent resolves common queries instantly and only falls back to a foundation model for genuinely open-ended requests, keeping the system fast, predictable, and cost-efficient.
 
