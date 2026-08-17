@@ -94,7 +94,7 @@ User Input
 
 ```
 ai-support-agent-bedrock/
-├── app.py                 # Streamlit UI — session handling, chat loop
+├── app.py                 # Streamlit UI - session handling, chat loop
 ├── agent.py                # Routing logic: intent → FAQ → LLM fallback; prompt builder
 ├── tools.py                 # FAQ answers, ticket creation, email handler, intent detection
 ├── memory.py                 # Thread-safe JSON chat history persistence
