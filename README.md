@@ -134,7 +134,7 @@ AWS_REGION=your_region
 MODEL_ID=your_bedrock_model_id
 ```
 
-> ⚠️ Never commit `.env` — add it to `.gitignore`. The current Bedrock request body targets Llama-family models (`prompt` / `max_gen_len`); switching to Titan, Claude, or another model family on Bedrock requires updating the request/response shape in `agent.py`'s `invoke_bedrock()`.
+> ⚠️ Never commit `.env` - add it to `.gitignore`. The current Bedrock request body targets Llama-family models (`prompt` / `max_gen_len`); switching to Titan, Claude, or another model family on Bedrock requires updating the request/response shape in `agent.py`'s `invoke_bedrock()`.
 
 ## Usage
 
