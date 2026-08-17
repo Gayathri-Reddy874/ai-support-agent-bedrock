@@ -142,7 +142,7 @@ MODEL_ID=your_bedrock_model_id
 streamlit run app.py
 ```
 
-Open the local URL Streamlit prints (typically `http://localhost:8501`). Type a question — e.g. *"What is the refund policy?"* or *"My order is not delivered"* - and the agent will route it through FAQ, ticketing, or the LLM automatically. Use **🗑 Clear Chat** in the sidebar to start a fresh session.
+Open the local URL Streamlit prints (typically `http://localhost:8501`). Type a question - e.g. *"What is the refund policy?"* or *"My order is not delivered"* - and the agent will route it through FAQ, ticketing, or the LLM automatically. Use **🗑 Clear Chat** in the sidebar to start a fresh session.
 
 ## Screenshots
 
